@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+tqdm = "*"
+polars = "*"
+scikit-learn = "*"
+pandas = "*"
+pyarrow = "*"
+torchinfo = "*"
+
+[dev-packages]
+black = "*"
+ruff = "*"
+mypy = "*"
+ipython = "*"
+
+[requires]
+python_version = "3.11"
