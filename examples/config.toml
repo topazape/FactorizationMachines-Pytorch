@@ -10,10 +10,10 @@ drop_last = true
 batch_size = 2048
 
 [model]
-embedding_dim = 10
+embedding_dim = 26
 k = 10
 
 [trainer]
-epochs = 100
+epochs = 20
 learning_rate = 1e-4
 weight_decay = 1e-6

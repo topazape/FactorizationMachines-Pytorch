@@ -131,3 +131,4 @@ dmypy.json
 # data
 dataset/train.txt
 dataset/test.txt
+examples/best.pth

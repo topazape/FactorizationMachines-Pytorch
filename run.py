@@ -95,7 +95,8 @@ if __name__ == "__main__":
     )
 
     print(model)
-    print(torchinfo.summary(model))
+    torchinfo.summary(model)
+
     train_loader = DataLoader(
         train_dataset,
         batch_size=config["dataloader"]["train"]["batch_size"],
