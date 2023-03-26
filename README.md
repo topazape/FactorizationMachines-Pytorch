@@ -7,7 +7,7 @@ Factorization Machines for Criteo CTR Prediction Contest.
 The datasets used in this repository can be obtained from [criteo dataset](https://www.kaggle.com/datasets/mrkmakr/criteo-dataset).
 
 ## Reference
-Preprocessing and model code are based on the TensorFlow implementation shown in the [M3 blog post](https://www.m3tech.blog/entry/2019/01/02/090000). The experimental results with this code are almost the same as those obtained by that article.
+Preprocessing and model code are based on the TensorFlow implementation shown in the [Factorization Machineの実装と数値検証](https://www.m3tech.blog/entry/2019/01/02/090000). The experimental results with this code are almost the same as those obtained by that article.
 
 ## Model
 ```
