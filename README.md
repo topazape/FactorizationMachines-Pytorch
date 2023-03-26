@@ -4,6 +4,20 @@ Factorization Machines for Criteo CTR Prediction Contest
 ## Dataset
 [criteo dataset](https://www.kaggle.com/datasets/mrkmakr/criteo-dataset)
 
+## Model
+```
+=================================================================
+Layer (type:depth-idx)                   Param #
+=================================================================
+FactorizationMachines                    390
+├─Embedding: 1-1                         1,116,232
+├─Linear: 1-2                            40
+=================================================================
+Total params: 1,116,662
+Trainable params: 1,116,662
+Non-trainable params: 0
+=================================================================
+```
 
 ## Usage
 ```shell
