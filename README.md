@@ -1,8 +1,10 @@
 # FactorizationMachines-Pytorch
-Factorization Machines for Criteo CTR Prediction Contest
+Factorization Machines for Criteo CTR Prediction Contest.
+
+[Display Advertising Challenge](https://www.kaggle.com/c/criteo-display-ad-challenge) is a competition held on Kaggle in 2014, focused on predicting click-through rates (CTR) for online advertising. Provided by the French online advertising company Criteo, participants were tasked with developing a model to predict the click rates of advertisements using 10 days' worth of anonymized web click logs provided by Criteo.
 
 ## Dataset
-[criteo dataset](https://www.kaggle.com/datasets/mrkmakr/criteo-dataset)
+The datasets used in this repository can be obtained from [criteo dataset](https://www.kaggle.com/datasets/mrkmakr/criteo-dataset).
 
 ## Model
 ```
