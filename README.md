@@ -29,7 +29,7 @@ Non-trainable params: 0
 
 ## Usage
 ```shell
-python run examples/config.toml --seed 42
+python run.py examples/config.toml --seed 42
 ```
 
 ## Result
